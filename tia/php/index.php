@@ -19,12 +19,12 @@
       </header>
       <nav>
         <ul>
-          <li class='active'><a href="#">Home</a></li>
-          <li class=''><a href="#">Facility</a></li>
-          <li class=''><a href="#">Services</a></li>
-          <li class=''><a href="#">Pricing</a></li>
-          <li class=''><a href="#">Hours</a></li>
-          <li class=''><a href="#">Contact</a></li>
+          <li class='active'><a href="../">Home</a></li>
+          <li class=''><a href="../php/facility/">Facility</a></li>
+          <li class=''><a href="../php/services/">Services</a></li>
+          <li class=''><a href="../php/prices/">Pricing</a></li>
+          <li class=''><a href="../php/hours/">Hours</a></li>
+          <li class=''><a href="../php/contact/">Contact</a></li>
         </ul>
         <div class="clearfix"></div>
       </nav>
