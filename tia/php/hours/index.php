@@ -37,16 +37,16 @@
         <div style="text-indent: 50px;"><h1>Hours page</h1>
         <p>Normal Business Hours</p>
 		<ul>
-			<li>Mon - Sat: 9am - 7pm</li>
-			<li>Closed Sundays</li>
+			<li style="display:list-item">Mon - Sat: 9am - 7pm</li>
+			<li style="display:list-item">Closed Sundays</li>
 		</ul>
 	<p>Hours are reduced during "Massage By Tia Resort Retreats" due to limited staff availability.</p></div>
 
 <div style="text-indent: 50px;"><p>Facility hours during retreats:</p>
 	<ul>
-	<li>Tuesday - Sat: 9am - 1pm, 3pm - 7pm</li>
-	<li>Closed Sundays</li>
-	<li>Closed Mondays</li>
+	<li style="display:list-item">Tuesday - Sat: 9am - 1pm, 3pm - 7pm</li>
+	<li style="display:list-item">Closed Sundays</li>
+	<li style="display:list-item">Closed Mondays</li>
 	</ul>
 
 <h2>Resort Retreat Schedule:</h2>
@@ -55,12 +55,12 @@
 
 <h2>Closed on the following major holidays:</h2>
 <ul>
-	<li>Thanksgiving</li>
-	<li>Christmas Day</li>
-	<li>New Years Day</li>
-	<li>Independence Day</li>
-	<li>Memorial Day</li>
-	<li>Labor Day</li>
+	<li style="display:list-item">Thanksgiving</li>
+	<li style="display:list-item">Christmas Day</li>
+	<li style="display:list-item">New Years Day</li>
+	<li style="display:list-item">Independence Day</li>
+	<li style="display:list-item">Memorial Day</li>
+	<li style="display:list-item">Labor Day</li>
    </ul>
    </div>
 
