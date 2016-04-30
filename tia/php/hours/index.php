@@ -19,12 +19,12 @@
       </header>
       <nav>
         <ul>
-          <li class='active'><a href="#">Home</a></li>
-          <li class=''><a href="#">Facility</a></li>
-          <li class=''><a href="#">Services</a></li>
-          <li class=''><a href="#">Pricing</a></li>
-          <li class=''><a href="#">Hours</a></li>
-          <li class=''><a href="#">Contact</a></li>
+          <li class='active'><a href="/">Home</a></li>
+          <li class=''><a href="/facility">Facility</a></li>
+          <li class=''><a href="/services">Services</a></li>
+          <li class=''><a href="/pricing">Pricing</a></li>
+          <li class=''><a href="/hours">Hours</a></li>
+          <li class=''><a href="/contact">Contact</a></li>
         </ul>
         <div class="clearfix"></div>
       </nav>
@@ -42,6 +42,7 @@
       </section>
       <aside class="sidebar">
         <h1>Hours page</h1>
+<<<<<<< HEAD
         
         <p>
         	<a href="tel:+2155555555"><b>215-555-5555</b></a><br>
@@ -51,6 +52,35 @@
         </p>
 
 
+=======
+        <p>Normal Business Hours</p>
+		<ul>
+			<li>Mon - Sat: 9am - 7pm</li>
+			<li>Closed Sundays</li>
+		</ul>
+	<p>Hours are reduced during "Massage By Tia Resort Retreats" due to limited staff availability.</p>
+
+<p>Facility hours during retreats:</p>
+	<ul>
+	<li>Tuesday - Sat: 9am - 1pm, 3pm - 7pm</li>
+	<li>Closed Sundays</li>
+	<li>Closed Mondays</li>
+	</ul>
+
+<h2>Resort Retreat Schedule:</h2>
+	<p>Summer at Asilomar 2015 - June 23-27, 2015</p>
+	<p>Winter Sun 2016 - Feb 16-20, 2016</p>
+
+<h2>Closed on the following major holidays:</h2>
+<ul>
+	<li>Thanksgiving</li>
+	<li>Christmas Day</li>
+	<li>New Years Day</li>
+	<li>Independence Day</li>
+	<li>Memorial Day</li>
+	<li>Labor Day</li>
+   </ul>     
+>>>>>>> origin/master
         <center><img src="http://www.w3newbie.com/wp-content/uploads/ease.png" /></center>
 
        
