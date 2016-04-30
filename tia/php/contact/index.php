@@ -5,7 +5,7 @@
   <meta charset="utf-8" />
   <title>Massage by Tyler - Tutorial - Agile Development</title>
   <meta name="viewport" content="width-device-width, initial-scale=1.0">
-  <link rel="stylesheet" type="text/css" href="css/tia.css">
+  <link rel="stylesheet" type="text/css" href="../css/tia.css">
 
   
   </head>  
@@ -19,12 +19,12 @@
       </header>
       <nav>
         <ul>
-          <li class='active'><a href="#">Home</a></li>
-          <li class=''><a href="#">Facility</a></li>
-          <li class=''><a href="#">Services</a></li>
-          <li class=''><a href="#">Pricing</a></li>
-          <li class=''><a href="#">Hours</a></li>
-          <li class=''><a href="#">Contact</a></li>
+          <li class='active'><a href="../">Home</a></li>
+          <li class=''><a href="../facility/">Facility</a></li>
+          <li class=''><a href="../services/">Services</a></li>
+          <li class=''><a href="../prices/">Pricing</a></li>
+          <li class=''><a href="../hours/">Hours</a></li>
+          <li class=''><a href="../contact/">Contact</a></li>
         </ul>
         <div class="clearfix"></div>
       </nav>
