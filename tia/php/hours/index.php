@@ -44,10 +44,10 @@
         <h1>Hours page</h1>
         
         <p>
-        	<b>215-555-5555</b><br>
+        	<a href="tel:+2155555555"><b>215-555-5555</b></a><br>
             1700 Chestnut Street<br>
             Philadelphia, PA 19100<br>
-           <a haref =mailto:tia@massage.com> tia@massage.com </a>
+           <a href =mailto:tia@massage.com> tia@massage.com </a>
         </p>
 
 
