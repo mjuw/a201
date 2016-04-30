@@ -44,21 +44,21 @@
         <h1>Hours page</h1>
         <p>Normal Business Hours</p>
 		<ul>
-			<li>Mon ­ Sat: 9am ­ 7pm</li>
+			<li>Mon - Sat: 9am - 7pm</li>
 			<li>Closed Sundays</li>
 		</ul>
 	<p>Hours are reduced during “Massage By Tia Resort Retreats” due to limited staff availability.</p>
 
 <p>Facility hours during retreats:</p>
 	<ul>
-	<li>Tuesday ­ Sat: 9am ­ 1pm, 3pm ­ 7pm</li>
+	<li>Tuesday - Sat: 9am - 1pm, 3pm - 7pm</li>
 	<li>Closed Sundays</li>
 	<li>Closed Mondays</li>
 	</ul>
 
 <h2>Resort Retreat Schedule:</h2>
-	“Summer at Asilomar 2015” ­ June 23­27, 2015
-	“Winter Sun 2016” ­ Feb 16­20, 2016
+	“Summer at Asilomar 2015” - June 23­27, 2015
+	“Winter Sun 2016” - Feb 16­20, 2016
 
 <h2>Closed on the following major holidays:</h2>
 <ul>
