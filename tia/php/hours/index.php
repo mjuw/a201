@@ -47,7 +47,7 @@
 			<li>Mon - Sat: 9am - 7pm</li>
 			<li>Closed Sundays</li>
 		</ul>
-	<p>Hours are reduced during “Massage By Tia Resort Retreats” due to limited staff availability.</p>
+	<p>Hours are reduced during "Massage By Tia Resort Retreats" due to limited staff availability.</p>
 
 <p>Facility hours during retreats:</p>
 	<ul>
@@ -57,8 +57,8 @@
 	</ul>
 
 <h2>Resort Retreat Schedule:</h2>
-	“Summer at Asilomar 2015” - June 23­27, 2015
-	“Winter Sun 2016” - Feb 16­20, 2016
+	<p>Summer at Asilomar 2015 - June 23-27, 2015</p>
+	<p>Winter Sun 2016 - Feb 16-20, 2016</p>
 
 <h2>Closed on the following major holidays:</h2>
 <ul>
