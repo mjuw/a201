@@ -45,6 +45,13 @@
         
         
         <center><img src="http://www.w3newbie.com/wp-content/uploads/ease.png" /></center>
+
+         <p>Massage by Tia</p>
+            <p><b>215-555-5555</b><br>
+            1700 Chestnut Street<br>
+            Philadelphia, PA 19100<br>
+            tia@massage.com
+
       
         <footer>
           <div class="section">
