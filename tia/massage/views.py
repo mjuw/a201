@@ -1,8 +1,8 @@
 from django.shortcuts import render
-import time;
+from django.utils import timezone
 
 def index(request):
-    localtime = time.asctime( time.localtime(time.time()) )
-    context = { 'localtime': localtime };
+    sometime = timezone.localtime(timezone.now())
+    context = {'sometime': sometime};
     return render(request, 'index.html', context)
 
