@@ -3,11 +3,10 @@
 <!--Tyler Waite's HTML 5 assignment 4-18-2016-->  
 <head>
   <meta charset="utf-8" />
-  <title>Massage by Tyler - Tutorial - Agile Development</title>
+  <title>Massage by Tia - Tutorial - Agile Development</title>
   <meta name="viewport" content="width-device-width, initial-scale=1.0">
-  <link rel="stylesheet" type="text/css" href="css/tia.css">
-
   
+  <link rel="stylesheet" type="text/css" href="../css/tia.css">
   </head>  
   <body>
     <div id="wrapper">
@@ -19,9 +18,9 @@
       </header>
       <nav>
         <ul>
-          <li class='active'><a href="/">Home</a></li>
+          <li class=''><a href="/">Home</a></li>
           <li class=''><a href="/facility">Facility</a></li>
-          <li class=''><a href="/services">Services</a></li>
+          <li class='active'><a href="/services">Services</a></li>
           <li class=''><a href="/pricing">Pricing</a></li>
           <li class=''><a href="/hours">Hours</a></li>
           <li class=''><a href="/contact">Contact</a></li>
@@ -35,6 +34,7 @@
       <center><img src="http://www.w3newbie.com/wp-content/uploads/three_sayings.png" alt="Massage by Tia, banner" title="Massage by Tia"/></center>
       
       <section class="left-col">
+<<<<<<< HEAD
         <p style="text-indent: 50px;"></p>
         
         <p style="text-indent: 50px;"></p>
@@ -53,18 +53,21 @@
 
 
 =======
+=======
+        <div style="text-indent: 50px;"><h1>Hours page</h1>
+>>>>>>> origin/master
         <p>Normal Business Hours</p>
 		<ul>
-			<li>Mon - Sat: 9am - 7pm</li>
-			<li>Closed Sundays</li>
+			<li style="display:list-item">Mon - Sat: 9am - 7pm</li>
+			<li style="display:list-item">Closed Sundays</li>
 		</ul>
-	<p>Hours are reduced during "Massage By Tia Resort Retreats" due to limited staff availability.</p>
+	<p>Hours are reduced during "Massage By Tia Resort Retreats" due to limited staff availability.</p></div>
 
-<p>Facility hours during retreats:</p>
+<div style="text-indent: 50px;"><p>Facility hours during retreats:</p>
 	<ul>
-	<li>Tuesday - Sat: 9am - 1pm, 3pm - 7pm</li>
-	<li>Closed Sundays</li>
-	<li>Closed Mondays</li>
+	<li style="display:list-item">Tuesday - Sat: 9am - 1pm, 3pm - 7pm</li>
+	<li style="display:list-item">Closed Sundays</li>
+	<li style="display:list-item">Closed Mondays</li>
 	</ul>
 
 <h2>Resort Retreat Schedule:</h2>
@@ -73,6 +76,7 @@
 
 <h2>Closed on the following major holidays:</h2>
 <ul>
+<<<<<<< HEAD
 	<li>Thanksgiving</li>
 	<li>Christmas Day</li>
 	<li>New Years Day</li>
@@ -80,6 +84,26 @@
 	<li>Memorial Day</li>
 	<li>Labor Day</li>
    </ul>     
+>>>>>>> origin/master
+=======
+	<li style="display:list-item">Thanksgiving</li>
+	<li style="display:list-item">Christmas Day</li>
+	<li style="display:list-item">New Years Day</li>
+	<li style="display:list-item">Independence Day</li>
+	<li style="display:list-item">Memorial Day</li>
+	<li style="display:list-item">Labor Day</li>
+   </ul>
+   </div>
+
+
+      </section>
+      <aside class="sidebar">
+        <div class="therapy">
+          <img src="http://www.w3newbie.com/wp-content/uploads/therapist.jpg" alt="therapist graphic" title="therapy"/>
+        </div>
+      </aside>
+     <div class="clearfix"></div> 
+        
 >>>>>>> origin/master
         <center><img src="http://www.w3newbie.com/wp-content/uploads/ease.png" /></center>
 
