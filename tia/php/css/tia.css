@@ -5,9 +5,17 @@ body{
       font-size: 18px;
       overflow: auto;
     }
-    h1, h2, h3 {
+    h1, h2 {
       text-align: center;
       padding-left: 5%;
+      padding-right:5%;
+      color: #878e63;
+    }
+
+    h3 {
+      text-align: left;
+      padding-left: 5%;
+      padding-right:5%;
       color: #878e63;
     }
 
@@ -150,7 +158,8 @@ body{
     ul {
       list-style:none;
       margin: 0;
-      padding: 0;
+      padding-left:5%;
+      padding-righ:5%;
     }
 
     li {
