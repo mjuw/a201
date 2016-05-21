@@ -5,6 +5,9 @@ body{
       font-size: 18px;
       overflow: auto;
     }
+    main{
+      padding:0 1em 2em 1em;
+    }
     h1, h2 {
       text-align: center;
       padding-left: 5%;
@@ -169,6 +172,12 @@ body{
 
     ul li img {
       height: 50px;
+    }
+
+    div#google-map{
+      width:75%;
+      margin:0 auto;
+      height:400px;
     }
 
     /*-----------Media!!---------------*/
