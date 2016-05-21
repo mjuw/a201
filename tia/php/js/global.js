@@ -8,7 +8,7 @@ $(window).load(function(){
 
 let global = {
 	googleMap : function(locId){
-		let latLng = {lat: 47.6678999, lng: -122.0964889};
+		let latLng = {lat: 39.9512117, lng: -75.1712311};
 		let map = new google.maps.Map(document.getElementById(locId), {
 		    center: latLng,
 		    zoom: 13,
