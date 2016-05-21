@@ -147,6 +147,13 @@ body{
       text-align: center;
     }
 
+    .section2 {
+        width: 20%;
+      float: left;
+      margin: 2% 2%;
+      text-align: center;
+    }
+
     footer {
       background: #878e63;
       width: 100%;
