@@ -1,14 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-<!--Tyler Waite's HTML 5 assignment 4-18-2016-->  
 <head>
   <meta charset="utf-8" />
-  <title>Massage by Tyler - Tutorial - Agile Development</title>
+  <title>Massage by Tia</title>
   <meta name="viewport" content="width-device-width, initial-scale=1.0">
-  <link rel="stylesheet" type="text/css" href="../css/tia.css">
-  
-  
-  </head>  
+  <link rel="stylesheet" type="text/css" href="./css/tia.css">
+  <script type="text/javascript" src="./js/lib/jquery-2.1.1.min.js"></script>
+  <script type="text/javascript" src="./js/lib/mustache.js"></script>
+  <script type="text/javascript" src="./js/mustache-templates.js"></script>
+  <script type="text/javascript" src="./js/global.js"></script>
+</head>  
   <body>
     <div id="wrapper">
       <div id="callout">
