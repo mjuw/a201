@@ -4,6 +4,8 @@ body{
       font-family: Verdana, Tahoma, Arial, sans-serif;
       font-size: 18px;
       overflow: auto;
+      color: #878e63;
+      text-align:left;
     }
     main{
       padding:0 1em 2em 1em;
@@ -23,7 +25,7 @@ body{
     }
 
     p {
-      padding: 0%;
+      padding: 1%;
       font-size: 24px;
       color: #878e63;
     }
@@ -34,6 +36,7 @@ body{
       height: auto;
       width: auto;
     }
+
 
     #wrapper {
       margin: 0 auto;
@@ -64,14 +67,13 @@ body{
     #callout p a {
       color: #f1f0d1;
       text-decoration: none;
-    }
-
+}
     header {
       width: 96%;
       min-height: 125px;
       padding: 5px;
       text-align: center;
-    }
+     }
 
     nav ul {
       list-style: none;
@@ -162,7 +164,7 @@ body{
       list-style:none;
       margin: 0;
       padding-left:5%;
-      padding-righ:5%;
+      padding-right:5%;
     }
 
     li {
